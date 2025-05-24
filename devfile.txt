@@ -8,3 +8,4 @@ Change file
 =======
 Last commit
 >>>>>>> dev
+new change
