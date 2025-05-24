@@ -1,2 +1,6 @@
 Hello Benny Bender
+<<<<<<< HEAD
 Hello git change
+=======
+Change file
+>>>>>>> a7567e5 (Change file)
