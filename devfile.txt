@@ -1,6 +1,10 @@
 Hello Benny Bender
 <<<<<<< HEAD
 Hello git change
+<<<<<<< HEAD
 =======
 Change file
 >>>>>>> a7567e5 (Change file)
+=======
+Last commit
+>>>>>>> dev
