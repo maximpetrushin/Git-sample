@@ -1,3 +1,7 @@
 Hello Git
+<<<<<<< HEAD
 New line
 Another Line
+=======
+
+>>>>>>> parent of 3bc1166 (Multi Add)
